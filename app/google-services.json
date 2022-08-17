@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1088949012707",
+    "firebase_url": "https://bren-mk-online-default-rtdb.firebaseio.com",
+    "project_id": "bren-mk-online",
+    "storage_bucket": "bren-mk-online.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088949012707:android:7ec66d34e22faf75141dd6",
+        "android_client_info": {
+          "package_name": "com.brenhr.brenmkonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088949012707-4n8pt3ujodatqs1r78kh17s4jeaurql6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brenhr.brenmkonline",
+            "certificate_hash": "b090fc3d84b2bf5b6f9fba47b9369dfbbf923e62"
+          }
+        },
+        {
+          "client_id": "1088949012707-5lmbosnvpsdb6difdr058kqh29janil6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtKoJJ8JCXaWkRvFxsWQNJKQdb3OYxStY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088949012707-5lmbosnvpsdb6difdr058kqh29janil6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
